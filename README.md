@@ -6,3 +6,4 @@ This library uses library bcm2835 for a Raspberry Pi so it can communicate with 
 
 In this library the different registers directions are stored so the values for accelerometer, gyroscope and magnetometer can easily be obtained.
 
+The cFS software for which this library has been developed can be found at: https://github.com/nasa/cFS
